@@ -1,6 +1,6 @@
-# EdX Haskell Course Environment
+# edX Haskell Course Environment
 
-This is my vagrant/puppet setup for the [Haskell course](https://courses.edx.org/courses/DelftX/FP101x/3T2014/courseware) in EdX by Erik Meijer
+This is my vagrant/puppet setup for the [Haskell course](https://courses.edx.org/courses/DelftX/FP101x/3T2014/courseware) in edX by Erik Meijer
 
 It's by definition an opinionated setup:
 
